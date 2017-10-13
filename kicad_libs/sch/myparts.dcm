@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP mpc73812
+D MCP73812 usb battery charger
+K mcp charge mcp7381
+$ENDCMP
+#
+#End Doc Library
